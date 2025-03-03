@@ -1,0 +1,16 @@
+PODS:
+  - EZTableKit (0.1.0)
+
+DEPENDENCIES:
+  - EZTableKit (from `../`)
+
+EXTERNAL SOURCES:
+  EZTableKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EZTableKit: c966806d4708ffa215acef95bf4d3deddd7f2742
+
+PODFILE CHECKSUM: ef9984ba79161d9fa6e20bf5c7163d5576830e8a
+
+COCOAPODS: 1.15.2

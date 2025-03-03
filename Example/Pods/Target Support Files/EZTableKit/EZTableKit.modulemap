@@ -1,0 +1,6 @@
+framework module EZTableKit {
+  umbrella header "EZTableKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
